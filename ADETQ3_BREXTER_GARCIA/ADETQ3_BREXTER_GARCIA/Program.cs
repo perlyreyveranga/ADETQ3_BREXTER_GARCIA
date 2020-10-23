@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace ADETQ3_BREXTER_GARCIA
+namespace ADETQ3_VERANGA_PERLYREY
 {
     public class Program
     {

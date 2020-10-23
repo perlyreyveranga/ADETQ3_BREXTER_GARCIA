@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace ADETQ3_BREXTER_GARCIA
+namespace ADETQ3_VERANGA_PERLYREY
 {
     public class Startup
     {

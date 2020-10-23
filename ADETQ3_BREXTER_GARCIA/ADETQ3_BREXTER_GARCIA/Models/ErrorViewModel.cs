@@ -1,6 +1,6 @@
 using System;
 
-namespace ADETQ3_BREXTER_GARCIA.Models
+namespace ADETQ3_VERANGA_PERLYREY.Models
 {
     public class ErrorViewModel
     {
